@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Zubr669/super-duper-giggle/issues"
   },
-  "homepage": "https://github.com/Zubr669/super-duper-giggle#readme"
+  "homepage": "https://github.com/Zubr669/super-duper-giggle#readme",
+  "dependencies": {
+    "node-openvpn": "^0.1.1"
+  }
 }
