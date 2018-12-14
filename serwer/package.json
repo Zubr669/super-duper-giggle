@@ -1,0 +1,19 @@
+{
+  "name": "aplikacja",
+  "version": "0.9.0",
+  "description": "Aplikacja napisana do pracy inżynierskiej",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zubr669/super-duper-giggle.git"
+  },
+  "author": "Wojciech Starostka",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Zubr669/super-duper-giggle/issues"
+  },
+  "homepage": "https://github.com/Zubr669/super-duper-giggle#readme"
+}
